@@ -16,5 +16,59 @@
       "フォロワー",
       "エボルヴ"
     ]
+  },
+  {
+    "画像URL":"\/wordpress\/wp-content\/images\/cardlist\/BP15\/bp15-120.png",
+    "名前":"メカニカルアナライザー",
+    "カード種類":"フォロワー・エボルヴ",
+    "クラス":"ニュートラル",
+    "タイプ":"超克",
+    "レアリティ":"SR",
+    "収録商品":"ブースターパック「絶傑の試練」",
+    "コスト":"なし",
+    "攻撃力":4,
+    "体力":4,
+    "カードナンバー":"BP15-120",
+    "URL":"https:\/\/shadowverse-evolve.com\/cardlist\/?cardno=BP15-120&card_name=&class%5B0%5D=%E3%82%A8%E3%83%AB%E3%83%95&class%5B1%5D=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%A9%E3%83%AB&title=&expansion_name=&cost%5B0%5D=all&card_kind%5B0%5D=all&rare%5B0%5D=all&power_from=&power_to=&hp_from=&hp_to=&type=&ability=&keyword=&view=image",
+    "カード種類リスト":[
+      "フォロワー",
+      "エボルヴ"
+    ]
+  },
+  {
+    "画像URL":"\/wordpress\/wp-content\/images\/cardlist\/BP15\/bp15-116.png",
+    "名前":"アラエル",
+    "カード種類":"フォロワー・エボルヴ",
+    "クラス":"ニュートラル",
+    "タイプ":"天使",
+    "レアリティ":"GR",
+    "収録商品":"ブースターパック「絶傑の試練」",
+    "コスト":"なし",
+    "攻撃力":1,
+    "体力":2,
+    "カードナンバー":"BP15-116",
+    "URL":"https:\/\/shadowverse-evolve.com\/cardlist\/?cardno=BP15-116&card_name=&class%5B0%5D=%E3%82%A8%E3%83%AB%E3%83%95&class%5B1%5D=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%A9%E3%83%AB&title=&expansion_name=&cost%5B0%5D=all&card_kind%5B0%5D=all&rare%5B0%5D=all&power_from=&power_to=&hp_from=&hp_to=&type=&ability=&keyword=&view=image",
+    "カード種類リスト":[
+      "フォロワー",
+      "エボルヴ"
+    ]
+  },
+  {
+    "画像URL":"\/wordpress\/wp-content\/images\/cardlist\/BP15\/bp15-114.png",
+    "名前":"干絶の飢餓・ギルネリーゼ",
+    "カード種類":"フォロワー・エボルヴ",
+    "クラス":"ニュートラル",
+    "タイプ":"絶傑",
+    "レアリティ":"LG",
+    "収録商品":"ブースターパック「絶傑の試練」",
+    "コスト":"なし",
+    "攻撃力":3,
+    "体力":3,
+    "カードナンバー":"BP15-114",
+    "URL":"https:\/\/shadowverse-evolve.com\/cardlist\/?cardno=BP15-114&card_name=&class%5B0%5D=%E3%82%A8%E3%83%AB%E3%83%95&class%5B1%5D=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%A9%E3%83%AB&title=&expansion_name=&cost%5B0%5D=all&card_kind%5B0%5D=all&rare%5B0%5D=all&power_from=&power_to=&hp_from=&hp_to=&type=&ability=&keyword=&view=image",
+    "カード種類リスト":[
+      "フォロワー",
+      "エボルヴ"
+    ]
   }
 ]
