@@ -70,5 +70,23 @@
       "フォロワー",
       "エボルヴ"
     ]
+  },
+  {
+    "画像URL":"\/wordpress\/wp-content\/images\/cardlist\/SD02\/SD02-018.png",
+    "名前":"ゴブリン",
+    "カード種類":"フォロワー・エボルヴ",
+    "クラス":"ニュートラル",
+    "タイプ":"ゴブリン",
+    "レアリティ":"BR",
+    "収録商品":"スターターデッキ第2弾「怨讐刀鬼」",
+    "コスト":"なし",
+    "攻撃力":4,
+    "体力":4,
+    "カードナンバー":"SD02-018",
+    "URL":"https:\/\/shadowverse-evolve.com\/cardlist\/?cardno=SD02-018&card_name=&class%5B0%5D=all&title=&expansion_name=SD02&cost%5B0%5D=all&card_kind%5B0%5D=all&rare%5B0%5D=all&power_from=&power_to=&hp_from=&hp_to=&type=&ability=&keyword=&view=image",
+    "カード種類リスト":[
+      "フォロワー",
+      "エボルヴ"
+    ]
   }
 ]

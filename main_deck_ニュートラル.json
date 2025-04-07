@@ -185,5 +185,56 @@
     "カード種類リスト":[
       "フォロワー"
     ]
+  },
+  {
+    "画像URL":"\/wordpress\/wp-content\/images\/cardlist\/SD02\/SD02-019.png",
+    "名前":"ファイター",
+    "カード種類":"フォロワー",
+    "クラス":"ニュートラル",
+    "タイプ":"傭兵",
+    "レアリティ":"BR",
+    "収録商品":"スターターデッキ第2弾「怨讐刀鬼」",
+    "コスト":2,
+    "攻撃力":2,
+    "体力":3,
+    "カードナンバー":"SD02-019",
+    "URL":"https:\/\/shadowverse-evolve.com\/cardlist\/?cardno=SD02-019&card_name=&class%5B0%5D=all&title=&expansion_name=SD02&cost%5B0%5D=all&card_kind%5B0%5D=all&rare%5B0%5D=all&power_from=&power_to=&hp_from=&hp_to=&type=&ability=&keyword=&view=image",
+    "カード種類リスト":[
+      "フォロワー"
+    ]
+  },
+  {
+    "画像URL":"\/wordpress\/wp-content\/images\/cardlist\/SD02\/SD02-020.png",
+    "名前":"天剣の乙女",
+    "カード種類":"フォロワー",
+    "クラス":"ニュートラル",
+    "タイプ":"天使",
+    "レアリティ":"BR",
+    "収録商品":"スターターデッキ第2弾「怨讐刀鬼」",
+    "コスト":5,
+    "攻撃力":4,
+    "体力":6,
+    "カードナンバー":"SD02-020",
+    "URL":"https:\/\/shadowverse-evolve.com\/cardlist\/?cardno=SD02-020&card_name=&class%5B0%5D=all&title=&expansion_name=SD02&cost%5B0%5D=all&card_kind%5B0%5D=all&rare%5B0%5D=all&power_from=&power_to=&hp_from=&hp_to=&type=&ability=&keyword=&view=image",
+    "カード種類リスト":[
+      "フォロワー"
+    ]
+  },
+  {
+    "画像URL":"\/wordpress\/wp-content\/images\/cardlist\/SD02\/SD02-017.png",
+    "名前":"ゴブリン",
+    "カード種類":"フォロワー",
+    "クラス":"ニュートラル",
+    "タイプ":"ゴブリン",
+    "レアリティ":"BR",
+    "収録商品":"スターターデッキ第2弾「怨讐刀鬼」",
+    "コスト":1,
+    "攻撃力":2,
+    "体力":2,
+    "カードナンバー":"SD02-017",
+    "URL":"https:\/\/shadowverse-evolve.com\/cardlist\/?cardno=SD02-017&card_name=&class%5B0%5D=all&title=&expansion_name=SD02&cost%5B0%5D=all&card_kind%5B0%5D=all&rare%5B0%5D=all&power_from=&power_to=&hp_from=&hp_to=&type=&ability=&keyword=&view=image",
+    "カード種類リスト":[
+      "フォロワー"
+    ]
   }
 ]
